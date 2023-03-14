@@ -137,4 +137,4 @@
 
 ## Таблица - соответствие компонентов менеджмента и этапов управленческого цикла 
 
-![Таблица компоненты и этапы управления](https://github.com/Miss-Believer/isd_project/raw/main/funcman.png)
+![Таблица компоненты и этапы управления](https://github.com/Miss-Believer/isd_project/raw/main/funcman.JPG)
